@@ -1,0 +1,7 @@
+node_modules
+public/lib
+public/dist
+public/js
+.idea
+.bower-*/
+tools
